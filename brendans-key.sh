@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SSH_KEY="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRQYXQWmJ8L5Y5S+GXvwxuzIifB8fquBVMli4tvJl58KDqWYq1YpMyMQuFEvhKC8WwUuNPLZSeMWlgY7rrqf/8Wj4Ra2EUwLmaYNTjnCK4mPQLIJYjmk32WAitzn3E9wBB80Udr5F2fNdQO0E7vBOejiS9tKncVjsMTQvFYlbVDt4+Un8xyJInWyXrdOoj9dZoskdLMjGFAONogmKiLQnviCB+p6Su9hQnwLkRUBXl57Nlybwtf6w+7sGjeDh+KKmx3Myse3G+2+bKIpnJvfGjtXbp8oudBQK40GCSOnYm8Pd5SJb+G4vDqL1779O/INMLxg54O2Ogy+DpftAUU99r brendan@conaxgames.com"
+SSH_KEY="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFdCFjvyJQmdNHHYPfcg7fz9YeQKDkJ1vMpkuWtqRBGN brendan@office"
 
 welcome() {
     echo "
